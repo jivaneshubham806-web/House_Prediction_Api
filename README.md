@@ -150,10 +150,6 @@ The returned `predictions.csv` has an extra `predicted_price_usd` column.
 - Simple web frontend (Streamlit / HTML)
 - Unit tests for the API
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👤 Author
 
 [Shubham Ganesh Jivane]
